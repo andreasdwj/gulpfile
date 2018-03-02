@@ -1,0 +1,21 @@
+{
+  "name": "setgulpfile",
+  "description": "setting initial gulpfile",
+  "main": "index.js",
+  "authors": [
+    "andreasdwj"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "setting",
+    "gulpfile"
+  ],
+  "homepage": "https://github.com/andreasdwj/gulpfile",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

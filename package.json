@@ -1,0 +1,23 @@
+{
+  "name": "setgulpfile",
+  "version": "1.0.0",
+  "description": "setting initial gulpfile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreasdwj/gulpfile.git"
+  },
+  "keywords": [
+    "setting",
+    "gulpfile"
+  ],
+  "author": "andreasdwj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreasdwj/gulpfile/issues"
+  },
+  "homepage": "https://github.com/andreasdwj/gulpfile#readme"
+}
